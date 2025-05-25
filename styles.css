@@ -9,7 +9,7 @@
 footer{
     background-color: rgb(220, 219, 219);
 }
-footer button:hover {
+footer button.active{
    text-decoration: underline;
    text-underline-offset: 5px;
 }
